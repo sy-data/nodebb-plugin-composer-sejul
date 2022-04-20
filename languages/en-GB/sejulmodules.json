@@ -1,0 +1,31 @@
+{
+	
+
+	"composer.compose": "Compose",
+	"composer.show_preview": "Show Preview",
+	"composer.hide_preview": "Hide Preview",
+	"composer.user_said_in": "%1 said in %2:",
+	"composer.user_said": "%1 said:",
+	"composer.discard": "Are you sure you wish to discard this post?",
+	"composer.submit_and_lock": "Submit and Lock",
+	"composer.toggle_dropdown": "Toggle Dropdown",
+	"composer.uploading": "Uploading %1",
+	"composer.formatting.bold": "Bold",
+	"composer.formatting.italic": "Italic",
+	"composer.formatting.list": "List",
+	"composer.formatting.strikethrough": "Strikethrough",
+	"composer.formatting.code": "Code",
+	"composer.formatting.link": "Link",
+	"composer.formatting.picture": "Image Link",
+	"composer.upload-picture": "Upload Image",
+	"composer.upload-file": "Upload File",
+	"composer.zen_mode": "Zen Mode",
+	"composer.select_category": "Select a category",
+	"composer.textarea.placeholder": "Enter your content here",
+	"composer.schedule-for": "Schedule topic for",
+	"composer.schedule-date": "Date",
+	"composer.schedule-time": "Time",
+	"composer.cancel-scheduling": "Cancel Scheduling",
+	"composer.set-schedule-date": "Set Date",
+	"composer.allowreply": "Allow replies"
+}

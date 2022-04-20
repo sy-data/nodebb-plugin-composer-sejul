@@ -1,0 +1,23 @@
+{
+
+    "composer.title_placeholder": "제목을 입력하세요.",
+    "composer.handle_placeholder": "이름을 입력하세요.",
+    "composer.discard": "취소",
+    "composer.submit": "등록",
+    "composer.additional-options": "Additional Options",
+    "composer.schedule": "예약",
+    "composer.replying_to": "'%1'에 대한 답글",
+    "composer.new_topic": "새 화제 생성",
+    "composer.editing": "편집 중",
+    "composer.uploading": "업로드 중...",
+    "composer.thumb_url_label": "썸네일 URL을 붙여넣으세요",
+    "composer.thumb_title": "이 게시물에 썸네일 추가",
+    "composer.thumb_url_placeholder": "http://example.com/thumb.png",
+    "composer.thumb_file_label": "혹은 파일을 업로드",
+    "composer.thumb_remove": "썸네일 제거",
+    "composer.drag_and_drop_images": "이미지를 여기에 드래그&드롭하세요.",
+    "composer.referlink": "연결할 페이지 링크를 입력하세요.",
+    "composer.selfreply": "고정 답글을 입력하세요.",
+    "composer.allowreply": "답글 허용하기"
+
+}

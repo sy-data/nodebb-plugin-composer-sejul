@@ -1,0 +1,24 @@
+{
+
+
+	"composer.title_placeholder": "Enter your title here...",
+	"composer.handle_placeholder": "Enter your name/handle here",
+	"composer.discard": "Discard",
+	"composer.submit": "Submit",
+	"composer.additional-options": "Additional Options",
+	"composer.schedule": "Schedule",
+	"composer.replying_to": "Replying to %1",
+	"composer.new_topic": "New Topic",
+	"composer.editing": "Editing",
+
+	"composer.uploading": "uploading...",
+	"composer.thumb_url_label": "Paste a topic thumbnail URL",
+	"composer.thumb_title": "Add a thumbnail to this topic",
+	"composer.thumb_url_placeholder": "http://example.com/thumb.png",
+	"composer.thumb_file_label": "Or upload a file",
+	"composer.thumb_remove": "Clear fields",
+	"composer.drag_and_drop_images": "Drag and Drop Images Here",
+	"composer.referlink": "Enter the page link",
+	"composer.selfreply": "Please enter a fixed reply"
+
+}
