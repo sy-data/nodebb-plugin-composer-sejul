@@ -99,7 +99,7 @@
 				<div class="pull-right draft-icon hidden-md hidden-lg"></div>
 				<textarea class="write" style="border-bottom:unset" tabindex="4" placeholder="[[sejulmodules:composer.textarea.placeholder]]"></textarea>
 			</div>
-			<div class="hidden-sm hidden-xs preview-container">
+			<div class="hidden-sm hidden-xs preview-container hide">
 				<div class="help-text">
 					<span class="toggle-preview">[[sejulmodules:composer.hide_preview]]</span>
 				</div>
